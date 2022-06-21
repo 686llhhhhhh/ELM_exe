@@ -20,5 +20,7 @@ By entering the corresponding feature values, the prediction of biogas productio
 
 ## Ending Words
 
-If you find any errors or questions, welcome to communicate.
+If you have any questions or any bugs are found, please feel free to contact me.
+
+Your comments and suggestions are welcome!
 
